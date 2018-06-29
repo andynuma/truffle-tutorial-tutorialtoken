@@ -5,4 +5,4 @@
 `truffle migrate`  
 `npm run dev`  
 
-ブラウザが開くのでmetamaskでCustom RPC　http://127.0.0.1:7545　に設定  
+ブラウザが開くのでmetamaskでCustom RPC　<http://127.0.0.1:7545>　に設定  
